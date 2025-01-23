@@ -1,0 +1,18 @@
+04/01/23 10:24:11 AM $A - <module> - INFO : Web page opened
+04/01/23 10:38:28 AM $A - BaseClass - INFO : Web page is launched http://www.dummypoint.com/seleniumtemplate.html
+04/01/23 11:03:33 AM $A - BaseClass - INFO : Web page is launched http://www.dummypoint.com/seleniumtemplate.html
+04/01/23 11:03:33 AM $A - BaseClass - INFO : Web element found with locatorvalue user_input using locatorTypeid
+04/01/23 12:33:50 PM $A - BaseClass - INFO : Web page is launched http://www.dummypoint.com/seleniumtemplate.html
+04/01/23 12:33:50 PM $A - BaseClass - INFO : Web element found with locatorvalue user_input using locatorType id
+04/01/23 12:43:09 PM $A - BaseClass - INFO : Web page is launched http://www.dummypoint.com/seleniumtemplate.html
+04/01/23 12:43:09 PM $A - BaseClass - ERROR : Web element not found with locatorvalue user_input using locatorType ID
+04/01/23 12:43:32 PM $A - BaseClass - INFO : Web page is launched http://www.dummypoint.com/seleniumtemplate.html
+04/01/23 12:43:32 PM $A - BaseClass - ERROR : Web element not found with locatorvalue user_input using locatorType ID
+04/01/23 12:49:49 PM $A - BaseClass - INFO : Web page is launched http://www.dummypoint.com/seleniumtemplate.html
+04/01/23 12:49:49 PM $A - BaseClass - INFO : Web element found with locatorvalue user_input using locatorType ID
+04/01/23 12:49:49 PM $A - BaseClass - INFO : Send text on Web element found with locatorvalue user_input using locatorType ID
+04/01/23 12:52:36 PM $A - BaseClass - INFO : Web page is launched http://www.dummypoint.com/seleniumtemplate.html
+04/01/23 12:52:36 PM $A - BaseClass - INFO : Web element found with locatorvalue user_input using locatorType ID
+04/01/23 12:52:36 PM $A - BaseClass - INFO : Send text on Web element found with locatorvalue user_input using locatorType ID
+04/01/23 12:52:36 PM $A - BaseClass - INFO : Web element found with locatorvalue Form using locatorType LINK
+04/01/23 12:52:38 PM $A - BaseClass - INFO : Clicked on Web element found with locatorvalue Form using locatorType LINK
