@@ -8,7 +8,7 @@ class WebDriverClass:
     def getWebDriver(self, browserName):
         driver = None
         if browserName == "chrome":
-            driver = webdriver.Chrome("/C:/Users/148352/PycharmProjects/drivers/chromedriver.exe")
+            driver = webdriver.Chrome("")
             self.log.info("Chrome Driver is initializing")
         elif browserName == "safari":
             driver = webdriver.Safari()
